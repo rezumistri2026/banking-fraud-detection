@@ -1,0 +1,17 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Streamlit local settings
+.streamlit/
+
+# Virtual Environments (if you created one)
+venv/
+env/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
