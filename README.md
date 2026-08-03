@@ -1,4 +1,5 @@
-**🏦 Banking Fraud Detection**
+
+# 🏦 Banking Fraud Detection
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python">
