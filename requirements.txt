@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 joblib
-tensorflow-cpu
+tensorflow
 networkx
 plotly
 scikit-learn
