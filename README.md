@@ -266,9 +266,9 @@ joblib
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Presented by
 
-**Rezu Mistri**
+**Pritam Singh,Rezu Mistri and Rik Mistri**
 
 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
 
